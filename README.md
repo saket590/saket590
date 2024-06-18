@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saket590
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently working on malware analysis
+- 🌱 I’m currently working on VAPT, k8s security, DevSecOps
 - 💞️ I’m looking to collaborate on cybersecurity domains
 - 📫 How to reach me .. Through LinkedIn
 
